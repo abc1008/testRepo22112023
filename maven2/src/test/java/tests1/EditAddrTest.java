@@ -10,7 +10,7 @@ public class EditAddrTest extends BaseTest{
 	public void performEditAddrTest() throws InterruptedException
 	{
 		editAddrPage.editAddress();
-		System.out.println("performEditAddrTest completed. -  GIT Message");
+		System.out.println("performEditAddrTest completed.");
 	}
 	
 }
